@@ -1,0 +1,8 @@
+# PyTorch 및 torchvision
+torch
+torchvision
+
+# FastAPI
+fastapi
+uvicorn
+python-multipart
